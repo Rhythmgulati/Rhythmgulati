@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">I'm RHYTHM <br><br>- 📚 I'm currently learning Python<br>- ⚡ In my free time I Create Youtube Videos</p>
+<p align="left">I'm RHYTHM <br><br>- 📚 I'm working on DevOps<br>- ⚡ In my free time I Create Youtube Videos</p>
 
 ###
 
