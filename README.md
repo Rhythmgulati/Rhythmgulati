@@ -1,6 +1,6 @@
 <div align="center">
  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rhythmgulati&label=Profile%20views&color=0e75b6&style=flat" alt="RHYTHM-GULATI" /> </p>
+[![MasterHead](https://www.shootdartsolutions.com/img/service/web-design.gif)]()
 
 </div>
 
