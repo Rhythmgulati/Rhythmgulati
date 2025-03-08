@@ -78,6 +78,6 @@
 ###
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jatin-7422&show_icons=true&locale=en" alt="jatin-7422" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jatin-Rhythmgulati&show_icons=true&locale=en" alt="RhythmGulati" /></p>
 
 ###
