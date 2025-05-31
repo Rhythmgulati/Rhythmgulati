@@ -19,11 +19,11 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">💬 Ask me about FullStack Development ,  Databases , Cloud </h3>
+
 
 ###
 
-<p align="left">I'm RHYTHM <br><br>- 📚 I'm working on DevOps<br>- ⚡ In my free time I Create Youtube Videos</p>
 
 ###
 
