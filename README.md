@@ -77,7 +77,7 @@
 
 ###
 
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rhythmgulati&show_icons=true&locale=en&layout=compact" alt="Rhythmgulati" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rhythmgulati&show_icons=true&locale=en" alt="RhythmGulati" /></p>
 
 ###
